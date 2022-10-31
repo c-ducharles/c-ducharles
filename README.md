@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @c-ducharles
-- 👀 I’m interested in AI tools and robotics
+- 👀 I’m interested in AI tools and vision/perception technologies
 - 🌱 I’m currently learning mechatronics
 
 <!---
